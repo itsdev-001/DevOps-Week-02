@@ -20,3 +20,6 @@ This project demonstrates Git and GitHub collaboration as part of the DevOps Wee
 ## Author
 Dev Singh
 EOF
+## Login Feature
+
+A login feature branch is created to demonstrate Git branching and collaboration.

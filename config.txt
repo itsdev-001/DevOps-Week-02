@@ -1,0 +1,4 @@
+cat > config.txt <<'EOF'
+APP_NAME=DevOps-Week-02
+ENVIRONMENT=development
+EOF

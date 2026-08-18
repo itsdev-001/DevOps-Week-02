@@ -1,4 +1,4 @@
-cat > README.md <<'EOF'
+
 # DevOps-Week-02
 
 ## Overview
@@ -19,7 +19,6 @@ This project demonstrates Git and GitHub collaboration as part of the DevOps Wee
 
 ## Author
 Dev Singh
-EOF
 ## Documentation
 
 This section demonstrates documentation changes made on the feature/documentation branch.
@@ -31,3 +30,6 @@ This section demonstrates documentation changes made on the feature/documentatio
 4. Push the branch to GitHub.
 5. Create a Pull Request.
 6. Merge the changes into main.
+## Login Feature
+
+A login feature branch is created to demonstrate Git branching and collaboration.
